@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mini-javascript
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning Javascript
+- 👋 Hi, I’m learning python 
+- 👀 I’m interested in Javascript, python 
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
